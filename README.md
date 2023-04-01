@@ -1,4 +1,4 @@
-<h3 align="center"><b>FAULTY WAFER COMPONENT DETECTION</b></h3>
+<h3 align="center"><b>Sensor Fault Detection - Silicon Wafer Fault detection</b></h3>
 
 <div align="center">
 
