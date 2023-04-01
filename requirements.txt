@@ -1,0 +1,13 @@
+apache-airflow
+kneed
+matplotlib
+numpy
+pandas
+pendulum
+pymongo
+python-dotenv
+PyYAML
+scikit-learn
+wincertstore==0.2
+xgboost==0.90
+-e .
