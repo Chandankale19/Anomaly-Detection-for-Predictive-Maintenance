@@ -1,4 +1,4 @@
-<h3 align="center"><b>Sensor Data Detection - Silicon Wafer Fault detection</b></h3>
+<h3 align="center"><b>Industrial IOT - Sensor Fault detection for Anomaly Detection for Predictive Maintenance, Production Planning and control and Industry 4.0 solution.</b></h3>
 
 <div align="center">
 
