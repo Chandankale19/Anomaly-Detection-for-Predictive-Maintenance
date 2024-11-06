@@ -19,8 +19,8 @@ def get_requirements() -> List[str]:
 setup(
     name='wafer',
     version="0.0.1",
-    author="suryanshyaknow",
-    author_email="suryanshgrover1999@gmail.com",
+    author="chandan kale",
+    author_email="chandankale1997@gmail.com",
     packages=find_packages(),
     install_requires=get_requirements()
 )
