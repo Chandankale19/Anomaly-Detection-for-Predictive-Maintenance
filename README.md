@@ -191,7 +191,7 @@ $ tar xzf ./actions-runner-linux-x64-2.301.1.tar.gz
 
 ```
 # Create the runner and start the configuration experience
-$ ./config.sh --url https://github.com/suryanshyaknow/faulty-wafer-component-detection --token APNAENNPAOWALIWWN55VAELD2BO4A
+$ ./config.sh --url https://github.com/Chandankale19/Anomaly-Detection-for-Predictive-Maintenance --token APNAENNPAOWALIWWN55VAELD2BO4A
 # Last step, run it!
 $ ./run.sh
 ```
