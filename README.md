@@ -1,4 +1,4 @@
-<h3 align="center"><b>Industrial IoT - Sensor Fault detection for Anomaly Detection for Predictive Maintenance, Production Planning and control and Industry 4.0 solution.</b></h3>
+<h3 align="center"><b>Title: Industrial IoT - Sensor Fault Detection for Industry 4.0 🌐⚙</b></h3>
 
 <div align="center">
 
